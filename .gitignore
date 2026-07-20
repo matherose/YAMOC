@@ -477,3 +477,5 @@ huggingface_cache/
 *.safetensors.index.json
 *.checkpoint
 
+# Docs
+docs/
