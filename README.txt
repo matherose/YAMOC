@@ -11,3 +11,22 @@ The goal is simple :
 
   ( told you it was simple )
 
+YAMOC is a boring tool for a boring problem:
+Turning a messy media dump into a clean archive.
+
+It does not manage your media.
+It prepares it for tools that do.
+
+Features:
+  - Exact duplicate detection
+  - Similarity duplicate detection
+  - EXIF normalization
+  - Filename normalization
+  - Folder organization
+
+The final result should work with
+  - Digikam
+  - Immich
+  - Lightroom
+  - Any other tool that understands files and metadata
+
